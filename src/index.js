@@ -8,7 +8,7 @@
     else {
         context[name] = definition()
     }
-})('Test', window, function () {
+})('Test', global||window, function () {
 
     function echo(msg){
         console.log(msg);
