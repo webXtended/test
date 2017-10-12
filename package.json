@@ -1,6 +1,6 @@
 {
   "name": "test-npm-2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Test project",
   "main": "dist/index.min.js",
   "scripts": {
