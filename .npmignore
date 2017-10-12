@@ -1,2 +1,4 @@
 src
 gulpfile.js
+.idea
+*.iml
