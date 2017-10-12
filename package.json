@@ -1,8 +1,8 @@
 {
-  "name": "test",
+  "name": "test-npm-2",
   "version": "1.0.0",
   "description": "Test project",
-  "main": "didt/index.min.js",
+  "main": "dist/index.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
